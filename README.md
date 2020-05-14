@@ -2,7 +2,6 @@
 
 ## We are a group of enthusiasts who are hacking our future :)
 
-                                       
 ## Students
 
 * [Aleksandra](https://github.com/aleks2407/Info-about-me)
