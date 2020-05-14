@@ -1,6 +1,6 @@
 # HYF-Group3-Intro
 
-## We are a group of enthusiasts who are hacking our future :)
+### _We are a group of enthusiasts who are hacking our future:)_
 
 ## Students
 
